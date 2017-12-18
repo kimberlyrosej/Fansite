@@ -1,0 +1,58 @@
+
+<style>
+body{
+	background-color:pink;
+}
+p{
+	color:maroon;
+	font-family:Arial, Helvetica, sans-serif;
+}
+li{
+	color:green;
+	font-family:cursive;
+}
+h1{
+	color:blue;
+	font-family:cursive;
+}
+h2{
+	color:firebrick;
+	font-family:all;
+}
+#banner{
+    	background-image: url("https://thewunderkindof.files.wordpress.com/2017/02/screen-shot-2017-02-03-at-7-12-00-pm.png?w=1127");
+    	width:650px;
+    	height: 200px;
+    	margin: auto;
+    	border: red 2px dashed;
+    	text-align: center;
+    	padding: 10px;
+    	background-position: center;
+    	}
+	#nav{
+    	white-space: nowrap;
+    	text-align: center;
+    	font-family:cursive;
+    	color:salmon;
+    	}
+    	#main{
+    	width:px;
+    	margin-left: auto;
+    	margin-right: auto;
+    	}
+    	#footer{
+    	width:px;
+    	margin-left: auto;
+    	margin-right: auto;
+    	font-family:arial ;
+    	color:orange;
+    	font-size:12px;
+    	text-transform: uppercase;
+    	border:;
+    	padding-top: ;
+    	}
+
+
+
+
+	
